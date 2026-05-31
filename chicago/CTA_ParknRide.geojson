@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "CTA_ParknRide",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3435" } },
+"features": [
+{ "type": "Feature", "properties": { "LONGNAME": "Cumberland", "LINES": "Blue Line", "SPACES": 1633, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1119069.115218333899975, 1936918.902887426316738 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Midway Airport", "LINES": "Orange Line", "SPACES": 299, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1146246.035686124116182, 1864878.647202827036381 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Garfield-South Elevated", "LINES": "Green Line", "SPACES": 117, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1179104.172055661678314, 1868942.362350396811962 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Kimball", "LINES": "Brown Line", "SPACES": 73, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1153086.294132933020592, 1931188.799599453806877 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "54th/Cermak", "LINES": "Pink Line", "SPACES": 175, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1141162.205027837306261, 1889103.458390325307846 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Howard", "LINES": "Red, Yellow, Purple, Evanston Express", "SPACES": 592, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1163833.856788881123066, 1949797.634490519762039 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Halsted-Midway", "LINES": "Orange Line", "SPACES": 31, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1171005.653282403945923, 1887308.306242778897285 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Dempster-Skokie", "LINES": "Yellow Line", "SPACES": 441, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1142274.544060740619898, 1957301.974601529538631 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Rosemont", "LINES": "Blue Line", "SPACES": 750, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1113164.689718287438154, 1937385.262675344944 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Ashland/63rd", "LINES": "Green Line (Englewood)", "SPACES": 235, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1166939.271770525723696, 1862468.794152162969112 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Forest Park", "LINES": "Blue Line", "SPACES": 650, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1123837.621049582958221, 1897384.764454193413258 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Harlem-O'Hare", "LINES": "Blue Line (O'Hare)", "SPACES": 53, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1126778.936112944036722, 1936442.667692244052887 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Linden", "LINES": "Purple Line, Evanston Express", "SPACES": 328, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1158524.956485651433468, 1969674.731992907822132 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Pulaski-Midway", "LINES": "Orange Line", "SPACES": 390, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1149622.027108520269394, 1870007.093460254371166 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Kedzie-Midway", "LINES": "Orange Line", "SPACES": 157, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1155410.969671923667192, 1872180.875117301940918 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "Western-Midway\r\n", "LINES": "Orange Line", "SPACES": 200, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1160811.867552556097507, 1871920.30259345471859 ] } },
+{ "type": "Feature", "properties": { "LONGNAME": "35th/Archer", "LINES": "Orange Line", "SPACES": 69, "ADA": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 1162228.689484849572182, 1881108.915439993143082 ] } }
+]
+}
